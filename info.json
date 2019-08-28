@@ -1,0 +1,11 @@
+{
+	"name": "Iconic",
+	"version": "0.0.1",
+	"title": "Iconic",
+	"author": "KernelPanic",
+	"contact": "me@jakeirvine.com",
+	"homepage": "jakeirvine.com",
+	"factorio_version": "0.17",
+	"dependencies": ["base >= 0.17"],
+	"description": "Simplifies the graphical style of the game, improving readability at high scale factories"
+}
